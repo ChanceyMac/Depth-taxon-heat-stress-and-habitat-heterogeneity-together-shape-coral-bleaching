@@ -1,6 +1,6 @@
 # Depth, taxon, heat stress, and habitat heterogeneity together shape coral bleaching
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17476109.svg)](https://doi.org/10.5281/zenodo.17476109)
+
 
 Code and data supporting:
 
